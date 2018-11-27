@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>academy_homepage</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-27 18:09:11</sys_created_on>
+        <sys_id>fa2f5711db86e3407e107b931f9619e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>academy_homepage</sys_name>
+        <sys_package display_value="dhanany Training" source="x_snc_dhanany_trai">d57c971ddb46e3407e107b931f9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dhanany Training">d57c971ddb46e3407e107b931f9619af</sys_scope>
+        <sys_update_name>sp_page_fa2f5711db86e3407e107b931f9619e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-27 18:09:11</sys_updated_on>
+        <title>Academy Homepage</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=fa2f5711db86e3407e107b931f9619e7"/>
+</record_update>

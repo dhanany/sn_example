@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description>How can we help?</short_description>
+        <size>md</size>
+        <sp_column display_value="1">305fd351db86e3407e107b931f961906</sp_column>
+        <sp_widget display_value="Homepage Search">200fbd96cb20020000f8d856634c9ca1</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-27 18:11:57</sys_created_on>
+        <sys_id>abcf9b51db86e3407e107b931f96196a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Welcome to the Academy Homepage</sys_name>
+        <sys_package display_value="dhanany Training" source="x_snc_dhanany_trai">d57c971ddb46e3407e107b931f9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dhanany Training">d57c971ddb46e3407e107b931f9619af</sys_scope>
+        <sys_update_name>sp_instance_abcf9b51db86e3407e107b931f96196a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-27 18:17:22</sys_updated_on>
+        <title>Welcome to the Academy Homepage</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"typeahead_search": {
+		"value": "How can we help?",
+		"displayValue": "How can we help?"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=abcf9b51db86e3407e107b931f96196a"/>
+</record_update>

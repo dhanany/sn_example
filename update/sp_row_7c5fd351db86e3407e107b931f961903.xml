@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>1</order>
+        <sp_column/>
+        <sp_container display_value="Academy Homepage - Container 1">872f5711db86e3407e107b931f9619ea</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-27 18:09:51</sys_created_on>
+        <sys_id>7c5fd351db86e3407e107b931f961903</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="dhanany Training" source="x_snc_dhanany_trai">d57c971ddb46e3407e107b931f9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dhanany Training">d57c971ddb46e3407e107b931f9619af</sys_scope>
+        <sys_update_name>sp_row_7c5fd351db86e3407e107b931f961903</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-27 18:09:51</sys_updated_on>
+    </sp_row>
+</record_update>

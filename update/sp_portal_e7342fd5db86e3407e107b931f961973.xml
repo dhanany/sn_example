@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <default>false</default>
+        <homepage display_value="academy_homepage">fa2f5711db86e3407e107b931f9619e7</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page/>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="Academy Menu">14a5a759db86e3407e107b931f9619f8</sp_rectangle_menu>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-27 18:32:48</sys_created_on>
+        <sys_id>e7342fd5db86e3407e107b931f961973</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Academy Portal</sys_name>
+        <sys_package display_value="dhanany Training" source="x_snc_dhanany_trai">d57c971ddb46e3407e107b931f9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dhanany Training">d57c971ddb46e3407e107b931f9619af</sys_scope>
+        <sys_update_name>sp_portal_e7342fd5db86e3407e107b931f961973</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-27 18:38:26</sys_updated_on>
+        <theme display_value="Academy Theme">1f45af19db86e3407e107b931f961925</theme>
+        <title>Academy Portal</title>
+        <u_available_in_portal_picker>false</u_available_in_portal_picker>
+        <url_suffix>academy</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=e7342fd5db86e3407e107b931f961973"/>
+</record_update>
